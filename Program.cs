@@ -1,4 +1,5 @@
 ﻿
+// Amin Ahmadkhah
 string ch;
 ConsoleKeyInfo digit;
 int number;
